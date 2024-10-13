@@ -14,8 +14,8 @@ submission {
     // in Anführungszeichen (z.B. "ab12cdef" für Ihre TU-ID) ein!
     // BEISPIEL:
     // studentId = "ab12cdef"
-    // firstName = "Max"
-    // lastName = "Mustermann"
+    // firstName = "sol_first"
+    // lastName = "sol_last"
     studentId = ""
     firstName = ""
     lastName = ""
